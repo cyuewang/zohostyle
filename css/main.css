@@ -98,14 +98,6 @@ display:flex;
 	display:flex;
 }
 
-.left{
-
-	width:50%
-}
-.right{
-
-	width:50%;
-}
 .slogan{
 
 	height:100px;
@@ -133,4 +125,43 @@ list-style-type:none;
 .clear{
 
 	clear:both;
+}
+
+.slogan h2{
+
+  font-weight: normal;
+
+    text-align: center;
+
+    padding-top: 40px;
+
+
+}
+
+.left{
+
+	width:50%;
+	display:flex;
+}
+.right{
+
+	width:50%;
+
+    padding-top: 80px;
+    padding-left: 50px;
+
+}
+
+.right p{
+
+
+	width:65%;
+}
+
+.left img{
+
+width: 380px;
+height: 380px;
+margin :0 auto;
+
 }
