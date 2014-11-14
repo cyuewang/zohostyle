@@ -158,6 +158,29 @@ list-style-type:none;
 	width:65%;
 }
 
+.right a{
+
+
+    background-color: red;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    color:white;
+    font-weight: bold;
+
+}
+
+.right a:hover{
+
+	background-color: #ab0d0d ;
+
+}
+.right a:link{
+
+	text-decoration: none;
+}
+
 .left img{
 
 width: 380px;
