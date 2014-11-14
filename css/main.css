@@ -1,0 +1,113 @@
+
+body{
+
+width: 990px;
+margin:0 auto;
+position:relative;
+vertical-align: middle;
+
+}
+.menu{
+
+  background-color: red;
+  height:70px;
+  display:vertical;
+
+}
+.h{
+	vertical-align: middle;
+
+
+
+}
+.nav{
+   position: relative;
+   width:990px;
+   margin-bottom:0px;
+   margin-top:100px;
+   
+
+}
+.top {
+
+float :right;
+height :50%;
+
+
+
+
+}
+.main{
+	height:480px;
+
+background-color: #f5f5f5;
+
+}
+
+.desc{
+
+	height:238px;
+	display:flex;
+}
+
+.description{
+
+
+	width:680px;
+}
+.apps{
+
+display:flex;
+
+}
+.colla{
+	width:33.3%;
+}
+.business{
+
+	width:33.3%;
+}
+.produtivity{
+
+	width:33.3%;
+}
+.video
+{
+    margin-left: 30px;
+	text-align: center;
+}
+.main_nav{
+
+	display:flex;
+}
+
+.left{
+
+	width:50%
+}
+.right{
+
+	width:50%;
+}
+.slogan{
+
+	height:100px;
+}
+.ext{
+
+margin-right: 15px;
+}
+
+.img_lt{
+display:flex;
+
+}
+.space{
+
+	margin-right: 2px;
+}
+ul {
+
+list-style-type:none;
+
+}
